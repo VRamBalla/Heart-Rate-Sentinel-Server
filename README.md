@@ -8,12 +8,7 @@ This program is designed to build a simple centralized heart rate sentinel
 server to process the patients', physicals', and administrators' information 
 and 
 monitor the 
-heart rate. The server is running on http://vcm-29744.vm.duke.edu:5000
-
-Assignment link: https://github.com/dward2/BME547/blob/main/Assignments/heart_rate_sentinel_server_assignment.md
-* Assignment add-on link: https://github.com/dward2/BME547/blob/main/Assignments/hrss_add_on.md
-
-HW GitHub link: https://github.com/BME547-Fall2022/heart-rate-sentinel-server-blh
+heart rate. The server was running on http://vcm-29744.vm.duke.edu:5000
 
 ## Authors: BLH team 
 **Ziwei He**
