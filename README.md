@@ -1,4 +1,4 @@
-# Heart Rate Sentinel Server Assignment
+# Heart Rate Sentinel Server
 
 
 
