@@ -1,0 +1,10 @@
+pytest==7.1.3
+pytest-pycodestyle
+faker
+pandas
+jupyter
+testfixtures
+flask
+cerberus
+requests
+numpy
