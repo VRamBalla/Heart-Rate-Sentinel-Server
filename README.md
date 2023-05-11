@@ -1,7 +1,6 @@
 # Heart Rate Sentinel Server Assignment
 
 
-![img](https://github.com/BME547-Fall2022/heart-rate-sentinel-server-blh/actions/workflows/pytest_runner.yml/badge.svg)
 
 ## Project description 
 This program is designed to build a simple centralized heart rate sentinel 
